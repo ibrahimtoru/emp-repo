@@ -1,1 +1,3 @@
 new-branch test
+some more text
+and a new line
